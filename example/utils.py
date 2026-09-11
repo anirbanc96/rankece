@@ -5,12 +5,12 @@ def phi_func(x, m, A = 0.2):
     return A * np.sign(np.sin(2 * np.pi * m * x))
 
 def prob_func(x, m, A = 0.2):
-    """E[Y|Z=z] = z + h(z), clipped to [0,1] for safety."""
+    """E[Y|Z=z] = z + h(z), clipped to [0,1]."""
     z = A * (1-x) + x * (1-A)
     return np.clip(z + phi_func(x, m, A), 0.0, 1.0)
 
 def compute_Rn(z, y):
-    """Rank estimator R_n = (1/(n-1)) sum_{i=1}^{n-1} (y[i]-z(i))(y[i+1]-z(i+1))"""
+    """Rank estimator R_n = (1/n) sum_{i=1}^{n-1} (y[i]-z(i))(y[i+1]-z(i+1))"""
     n = len(z)
     if n < 2:
         return 0.0

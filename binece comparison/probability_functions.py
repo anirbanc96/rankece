@@ -42,9 +42,6 @@ def random_fourier(z, K=10, seed=0, amplitude=0.4):
             y += b * np.cos(2 * np.pi * k * x)
         return y
 
-    # Precompute M on a fixed reference grid, independent of z
-    M = np.max(np.abs(_eval(np.linspace(0, 1, 10_000))))
-
     return np.clip(0.5 + amplitude * _eval(np.asarray(z)), 0, 1)
 
 
@@ -54,9 +51,6 @@ def weierstrass(z, terms=8):
         for k in range(terms):
             y += (0.5**k) * np.cos((3**k) * np.pi * x)
         return y
-
-    # Precompute M on a fixed reference grid, independent of z
-    M = np.max(np.abs(_eval(np.linspace(0, 1, 10_000))))
 
     h = 0.15 + 0.5 * np.asarray(z) + 0.25 * _eval(np.asarray(z))
     return np.clip(h, 0, 1)

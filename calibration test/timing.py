@@ -1,16 +1,5 @@
 """
 Timing comparison for calibration tests.
-
-This experiment fixes rho = 0.5 and measures the mean runtime (ms)
-of each calibration test across a range of sample sizes.
-
-Output:
-    - timing_table.csv
-    - timing_table.pdf
-
-The timing table has:
-    Rows    : methods
-    Columns : sample sizes n
 """
 
 import os
@@ -68,6 +57,7 @@ def time_one(fn, Z, Y, n_runs, fresh_data_each_run, prob_gen, n, rho, seed_offse
     times = []
 
     for i in range(n_runs):
+        # allows for generating freh data in each run if true.
         if fresh_data_each_run:
             np.random.seed(seed_offset + i)
             Z_i, Y_i = gen_data(n, rho, prob_fn=H1_PROB_FUNCS[prob_gen])
@@ -89,14 +79,7 @@ def time_one(fn, Z, Y, n_runs, fresh_data_each_run, prob_gen, n, rho, seed_offse
     return np.mean(times) * 1000 if times else np.nan
 
 
-def time_table(
-    n_values,
-    rho=0.5,
-    n_runs=25,
-    fresh_data_each_run=False,
-    prob_gen = "p = sin",
-    seed=0,
-):
+def time_table(n_values,rho=0.5,n_runs=25,fresh_data_each_run=False,prob_gen = "p = sin",seed=0,):
     """
     Construct a timing table.
 

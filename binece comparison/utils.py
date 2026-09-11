@@ -144,7 +144,7 @@ def plot_single_experiment(results, title, bin_schedules, RANK_COLOR="crimson", 
         data_min = min(data_min, np.min(mu - se))
         data_max = max(data_max, np.max(mu + se))
 
-    # Label ticks with the actual sample sizes
+    # Label ticks with log actual sample sizes
     logNs = np.log10(Ns)
     ticks = np.where(np.isclose(logNs, np.round(logNs)))[0]
 

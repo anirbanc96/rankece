@@ -35,14 +35,17 @@ def rank_ece_finite_test(Z, Y, alpha_sig=0.05):
 
     n = len(Z)
 
+    # Sort predictions and concomitant labels
     sort_idx = np.argsort(Z)
     Z_sorted = Z[sort_idx]
     Y_sorted = Y[sort_idx]
 
     D = Y_sorted - Z_sorted
+    # Consecutive order statistic calculation
     hatrankECE = np.sum(D[:-1] * D[1:]) / n
 
     v = Z_sorted * (1 - Z_sorted)
+    # exact finite sample variance proxy
     sigma2 = np.sum(v[:-1] * v[1:]) / n
 
     log_term = np.log(2 / alpha_sig)
@@ -94,11 +97,11 @@ def skce_linear_test(Z, Y, alpha_sig=0.05, band=1, kernel="gaussian"):
 
 def _SKCE_h_matrix(out_y, out_fz, band=1, kernel="gaussian"):
 
-    diff_y = out_y - out_fz                 # (n, 2)
-    G = diff_y @ diff_y.T                   # (n, n)
+    diff_y = out_y - out_fz                 
+    G = diff_y @ diff_y.T                   
 
     kernel_matrix_fn = get_kernel_matrix_fn(kernel)
-    K = kernel_matrix_fn(out_fz, out_fz, sigma=band)  # (n, n)
+    K = kernel_matrix_fn(out_fz, out_fz, sigma=band) 
 
     return K * G
 
@@ -111,18 +114,7 @@ def _SKCE_ustat_from_H(n, H):
 
 def _SKCE_bootstrap_quantile(n, H, alpha_sig=0.05, n_rep=100):
     """
-    Bootstrap calibration of n * SKCE_hat following Widmann et.al. (2019):
-
-        T = (2/n) * sum_{i<j} [ H[*i,*j]
-                                 - (1/n) sum_k H[*i,k]
-                                 - (1/n) sum_k H[k,*j]
-                                 + (1/n^2) sum_{k,l} H[k,l] ]
-
-    where *1,...,*n are indices sampled with replacement from {1,...,n},
-    and H[k,l] is computed on the ORIGINAL data.
-
-    Returns the (1 - alpha_sig) quantile c of T, used as the rejection
-    threshold for n * SKCE_hat.
+    Bootstrap calibration of n * SKCE_hat following Widmann et.al. (2019) (see Appendix G):
     """
     H_row_sum = np.sum(H, axis=1)   # includes diagonal
     H_total = np.sum(H)             # sum_{k,l} H[k,l], includes diagonal
