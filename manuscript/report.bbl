@@ -1,0 +1,412 @@
+\begin{thebibliography}{79}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Angelopoulos et~al.(2024)Angelopoulos, Barber, and Bates]{angelopoulos2024theoretical}
+A.~N. Angelopoulos, R.~F. Barber, and S.~Bates.
+\newblock Theoretical foundations of conformal prediction.
+\newblock \emph{arXiv preprint arXiv:2411.11824}, 2024.
+
+\bibitem[Ashukha et~al.(2020)Ashukha, Lyzhov, Molchanov, and Vetrov]{Ashukha2020Pitfalls}
+A.~Ashukha, A.~Lyzhov, D.~Molchanov, and D.~Vetrov.
+\newblock Pitfalls of in-domain uncertainty estimation and ensembling in deep learning.
+\newblock In \emph{International Conference on Learning Representations}, 2020.
+\newblock URL \url{https://openreview.net/forum?id=BJxI5gHKDr}.
+
+\bibitem[Austin and Steyerberg(2019)]{austin2019integrated}
+P.~C. Austin and E.~W. Steyerberg.
+\newblock The integrated calibration index (ici) and related metrics for quantifying the calibration of logistic regression models.
+\newblock \emph{Statistics in medicine}, 38\penalty0 (21):\penalty0 4051--4065, 2019.
+
+\bibitem[Baesens et~al.(2003)Baesens, Van~Gestel, Viaene, Stepanova, Suykens, and Vanthienen]{baesens2003benchmarking}
+B.~Baesens, T.~Van~Gestel, S.~Viaene, M.~Stepanova, J.~Suykens, and J.~Vanthienen.
+\newblock Benchmarking state-of-the-art classification algorithms for credit scoring.
+\newblock \emph{Journal of the operational research society}, 54\penalty0 (6):\penalty0 627--635, 2003.
+
+\bibitem[Barbieri et~al.(2020)Barbieri, Camacho-Collados, Anke, and Neves]{barbieri2020tweeteval}
+F.~Barbieri, J.~Camacho-Collados, L.~E. Anke, and L.~Neves.
+\newblock Tweeteval: Unified benchmark and comparative evaluation for tweet classification.
+\newblock In \emph{Findings of the association for computational linguistics: EMNLP 2020}, pages 1644--1650, 2020.
+
+\bibitem[Bhatia and Davis(2000)]{bhatia2000better}
+R.~Bhatia and C.~Davis.
+\newblock A better bound on the variance.
+\newblock \emph{The american mathematical monthly}, 107\penalty0 (4):\penalty0 353--357, 2000.
+
+\bibitem[Blasiok and Nakkiran(2023)]{blasiok2023smooth}
+J.~Blasiok and P.~Nakkiran.
+\newblock Smooth ece: Principled reliability diagrams via kernel smoothing.
+\newblock In \emph{The Twelfth International Conference on Learning Representations}, 2023.
+
+\bibitem[B{\l}asiok et~al.(2023)B{\l}asiok, Gopalan, Hu, and Nakkiran]{blasiok2023unifying}
+J.~B{\l}asiok, P.~Gopalan, L.~Hu, and P.~Nakkiran.
+\newblock A unifying theory of distance from calibration.
+\newblock In \emph{Proceedings of the 55th Annual ACM Symposium on Theory of Computing}, pages 1727--1740, 2023.
+
+\bibitem[Br{\"o}cker(2022)]{brocker2022uniform}
+J.~Br{\"o}cker.
+\newblock Uniform calibration tests for forecasting systems with small lead time.
+\newblock \emph{Statistics and Computing}, 32\penalty0 (6):\penalty0 102, 2022.
+
+\bibitem[Caesar et~al.(2020)Caesar, Bankiti, Lang, Vora, Liong, Xu, Krishnan, Pan, Baldan, and Beijbom]{caesar2020nuscenes}
+H.~Caesar, V.~Bankiti, A.~H. Lang, S.~Vora, V.~E. Liong, Q.~Xu, A.~Krishnan, Y.~Pan, G.~Baldan, and O.~Beijbom.
+\newblock nuscenes: A multimodal dataset for autonomous driving.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pages 11621--11631, 2020.
+
+\bibitem[Cai et~al.(2020)Cai, Gao, and Zhao]{cai2020review}
+L.~Cai, J.~Gao, and D.~Zhao.
+\newblock A review of the application of deep learning in medical image classification and segmentation.
+\newblock \emph{Annals of translational medicine}, 8\penalty0 (11):\penalty0 713, 2020.
+
+\bibitem[Chatterjee et~al.(2024)Chatterjee, Niu, and Bhattacharya]{chatterjee2024kernel}
+A.~Chatterjee, Z.~Niu, and B.~B. Bhattacharya.
+\newblock A kernel-based conditional two-sample test using nearest neighbors (with applications to calibration, regression curves, and simulation-based inference).
+\newblock \emph{arXiv preprint arXiv:2407.16550}, 2024.
+
+\bibitem[Chen et~al.(2024)Chen, Wu, Chitta, Jaeger, Geiger, and Li]{chen2024end}
+L.~Chen, P.~Wu, K.~Chitta, B.~Jaeger, A.~Geiger, and H.~Li.
+\newblock End-to-end autonomous driving: Challenges and frontiers.
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine Intelligence}, 46\penalty0 (12):\penalty0 10164--10183, 2024.
+
+\bibitem[Ciosek et~al.(2026)Ciosek, Felicioni, Ghiassian, Elenter, Tonolini, Gustafsson, Garcia-Martin, Gonzalez, and Bertrand-Lalo]{ciosek2026measuring}
+K.~Ciosek, N.~Felicioni, S.~Ghiassian, J.~Elenter, F.~Tonolini, D.~Gustafsson, E.~Garcia-Martin, C.~B. Gonzalez, and R.~Bertrand-Lalo.
+\newblock Measuring uncertainty calibration.
+\newblock In \emph{The Fourteenth International Conference on Learning Representations}, 2026.
+\newblock URL \url{https://openreview.net/forum?id=4AjfwNnWAV}.
+
+\bibitem[Cleveland et~al.(2017)Cleveland, Grosse, and Shyu]{cleveland2017local}
+W.~S. Cleveland, E.~Grosse, and W.~M. Shyu.
+\newblock Local regression models.
+\newblock In \emph{Statistical models in S}, pages 309--376. Routledge, 2017.
+
+\bibitem[Dawid(1982)]{dawid1982well}
+A.~P. Dawid.
+\newblock The well-calibrated bayesian.
+\newblock \emph{Journal of the American statistical Association}, 77\penalty0 (379):\penalty0 605--610, 1982.
+
+\bibitem[DeGroot and Fienberg(1983)]{degroot1983comparison}
+M.~H. DeGroot and S.~E. Fienberg.
+\newblock The comparison and evaluation of forecasters.
+\newblock \emph{Journal of the Royal Statistical Society: Series D (The Statistician)}, 32\penalty0 (1-2):\penalty0 12--22, 1983.
+
+\bibitem[Devlin et~al.(2019)Devlin, Chang, Lee, and Toutanova]{devlin2019bert}
+J.~Devlin, M.-W. Chang, K.~Lee, and K.~Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language understanding.
+\newblock In \emph{Proceedings of the 2019 conference of the North American chapter of the association for computational linguistics: human language technologies, volume 1 (long and short papers)}, pages 4171--4186, 2019.
+
+\bibitem[Dugundji(1951)]{dugundji1951extension}
+J.~Dugundji.
+\newblock {An extension of Tietze's theorem.}
+\newblock \emph{Pacific Journal of Mathematics}, 1\penalty0 (3):\penalty0 353 -- 367, 1951.
+
+\bibitem[Esteva et~al.(2017)Esteva, Kuprel, Novoa, Ko, Swetter, Blau, and Thrun]{esteva2017dermatologist}
+A.~Esteva, B.~Kuprel, R.~A. Novoa, J.~Ko, S.~M. Swetter, H.~M. Blau, and S.~Thrun.
+\newblock Dermatologist-level classification of skin cancer with deep neural networks.
+\newblock \emph{nature}, 542\penalty0 (7639):\penalty0 115--118, 2017.
+
+\bibitem[Esteva et~al.(2019)Esteva, Robicquet, Ramsundar, Kuleshov, DePristo, Chou, Cui, Corrado, Thrun, and Dean]{esteva2019guide}
+A.~Esteva, A.~Robicquet, B.~Ramsundar, V.~Kuleshov, M.~DePristo, K.~Chou, C.~Cui, G.~Corrado, S.~Thrun, and J.~Dean.
+\newblock A guide to deep learning in healthcare.
+\newblock \emph{Nature medicine}, 25\penalty0 (1):\penalty0 24--29, 2019.
+
+\bibitem[Feng et~al.(2024)Feng, Gossmann, Pirracchio, Petrick, Pennello, and Sahiner]{feng2024model}
+J.~Feng, A.~Gossmann, R.~Pirracchio, N.~Petrick, G.~A. Pennello, and B.~Sahiner.
+\newblock Is this model reliable for everyone? testing for strong calibration.
+\newblock In \emph{International Conference on Artificial Intelligence and Statistics}, pages 181--189. PMLR, 2024.
+
+\bibitem[Foster and Vohra(1998)]{foster1998asymptotic}
+D.~P. Foster and R.~Vohra.
+\newblock Asymptotic calibration.
+\newblock \emph{Biometrika}, 85\penalty0 (564):\penalty0 379--390, 1998.
+
+\bibitem[Fritz-Morgenthal et~al.(2022)Fritz-Morgenthal, Hein, and Papenbrock]{fritz2022financial}
+S.~Fritz-Morgenthal, B.~Hein, and J.~Papenbrock.
+\newblock Financial risk management and explainable, trustworthy, responsible ai.
+\newblock \emph{Frontiers in artificial intelligence}, 5:\penalty0 779799, 2022.
+
+\bibitem[Futami and Fujisawa(2024)]{futami2024information}
+F.~Futami and M.~Fujisawa.
+\newblock Information-theoretic generalization analysis for expected calibration error.
+\newblock \emph{Advances in neural information processing systems}, 37:\penalty0 84246--84297, 2024.
+
+\bibitem[Glaser et~al.(2023)Glaser, Widmann, Lindsten, and Gretton]{glaser2023fast}
+P.~Glaser, D.~Widmann, F.~Lindsten, and A.~Gretton.
+\newblock Fast and scalable score-based kernel calibration tests.
+\newblock In \emph{Uncertainty in Artificial Intelligence}, pages 691--700. PMLR, 2023.
+
+\bibitem[Glenn et~al.(1950)]{glenn1950verification}
+W.~B. Glenn et~al.
+\newblock Verification of forecasts expressed in terms of probability.
+\newblock \emph{Monthly weather review}, 78\penalty0 (1):\penalty0 1--3, 1950.
+
+\bibitem[Gneiting and Katzfuss(2014)]{gneiting2014probabilistic}
+T.~Gneiting and M.~Katzfuss.
+\newblock Probabilistic forecasting.
+\newblock \emph{Annual Review of Statistics and Its Application}, 1\penalty0 (1):\penalty0 125--151, 2014.
+
+\bibitem[Gopalan et~al.(2022)Gopalan, Kim, Singhal, and Zhao]{gopalan2022low}
+P.~Gopalan, M.~P. Kim, M.~A. Singhal, and S.~Zhao.
+\newblock Low-degree multicalibration.
+\newblock In \emph{Conference on Learning Theory}, pages 3193--3234. PMLR, 2022.
+
+\bibitem[Gulshan et~al.(2016)Gulshan, Peng, Coram, Stumpe, Wu, Narayanaswamy, Venugopalan, Widner, Madams, Cuadros, et~al.]{gulshan2016development}
+V.~Gulshan, L.~Peng, M.~Coram, M.~C. Stumpe, D.~Wu, A.~Narayanaswamy, S.~Venugopalan, K.~Widner, T.~Madams, J.~Cuadros, et~al.
+\newblock Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs.
+\newblock \emph{jama}, 316\penalty0 (22):\penalty0 2402--2410, 2016.
+
+\bibitem[Guo et~al.(2017)Guo, Pleiss, Sun, and Weinberger]{guo2017calibration}
+C.~Guo, G.~Pleiss, Y.~Sun, and K.~Q. Weinberger.
+\newblock On calibration of modern neural networks.
+\newblock In \emph{International conference on machine learning}, pages 1321--1330. PMLR, 2017.
+
+\bibitem[Gupta and Ramdas(2021)]{gupta2021distribution}
+C.~Gupta and A.~Ramdas.
+\newblock Distribution-free calibration guarantees for histogram binning without sample splitting.
+\newblock In \emph{International conference on machine learning}, pages 3942--3952. PMLR, 2021.
+
+\bibitem[Gupta et~al.(2020)Gupta, Podkopaev, and Ramdas]{gupta2020distribution}
+C.~Gupta, A.~Podkopaev, and A.~Ramdas.
+\newblock Distribution-free binary classification: prediction sets, confidence intervals and calibration.
+\newblock \emph{Advances in Neural Information Processing Systems}, 33:\penalty0 3711--3723, 2020.
+
+\bibitem[Gupta et~al.(2021)Gupta, Rahimi, Ajanthan, Mensink, Sminchisescu, and Hartley]{gupta2021calibration}
+K.~Gupta, A.~Rahimi, T.~Ajanthan, T.~Mensink, C.~Sminchisescu, and R.~Hartley.
+\newblock Calibration of neural networks using splines.
+\newblock In \emph{International Conference on Learning Representations}, 2021.
+
+\bibitem[Gut(2006)]{gut2006probability}
+A.~Gut.
+\newblock \emph{Probability: A Graduate Course}, volume 200.
+\newblock Springer, 2006.
+
+\bibitem[Gweon(2023)]{gweon2023power}
+H.~Gweon.
+\newblock A power-controlled reliability assessment for multi-class probabilistic classifiers: H. gweon.
+\newblock \emph{Advances in Data Analysis and Classification}, 17\penalty0 (4):\penalty0 927--949, 2023.
+
+\bibitem[Hall and Heyde(2014)]{hall2014martingale}
+P.~Hall and C.~C. Heyde.
+\newblock \emph{Martingale limit theory and its application}.
+\newblock Academic press, 2014.
+
+\bibitem[Hardy et~al.(1952)Hardy, Littlewood, and P{\'o}lya]{hardy1952inequalities}
+G.~H. Hardy, J.~E. Littlewood, and G.~P{\'o}lya.
+\newblock \emph{Inequalities}.
+\newblock Cambridge university press, 1952.
+
+\bibitem[Havasi et~al.(2021)Havasi, Jenatton, Fort, Liu, Snoek, Lakshminarayanan, Dai, and Tran]{havasi2021training}
+M.~Havasi, R.~Jenatton, S.~Fort, J.~Z. Liu, J.~Snoek, B.~Lakshminarayanan, A.~M. Dai, and D.~Tran.
+\newblock Training independent subnetworks for robust prediction.
+\newblock In \emph{International Conference on Learning Representations}, 2021.
+\newblock URL \url{https://openreview.net/forum?id=OGg9XnKxFAH}.
+
+\bibitem[Hendrycks et~al.(2019{\natexlab{a}})Hendrycks, Lee, and Mazeika]{hendrycks2019using}
+D.~Hendrycks, K.~Lee, and M.~Mazeika.
+\newblock Using pre-training can improve model robustness and uncertainty.
+\newblock In \emph{International conference on machine learning}, pages 2712--2721. PMLR, 2019{\natexlab{a}}.
+
+\bibitem[Hendrycks et~al.(2019{\natexlab{b}})Hendrycks, Mazeika, and Dietterich]{hendrycks2018deep}
+D.~Hendrycks, M.~Mazeika, and T.~Dietterich.
+\newblock Deep anomaly detection with outlier exposure.
+\newblock In \emph{International Conference on Learning Representations}, 2019{\natexlab{b}}.
+\newblock URL \url{https://openreview.net/forum?id=HyxCxhRcY7}.
+
+\bibitem[Hilden et~al.(1978)Hilden, Habbema, and Bjerregaard]{hilden1978measurement}
+J.~Hilden, J.~D.~F. Habbema, and B.~Bjerregaard.
+\newblock The measurement of performance in probabilistic diagnosis.
+\newblock \emph{Methods of information in medicine}, 17\penalty0 (04):\penalty0 227--237, 1978.
+
+\bibitem[Kakade and Foster(2008)]{kakade2008deterministic}
+S.~M. Kakade and D.~P. Foster.
+\newblock Deterministic calibration and nash equilibrium.
+\newblock \emph{Journal of Computer and System Sciences}, 74\penalty0 (1):\penalty0 115--130, 2008.
+
+\bibitem[Kumar et~al.(2018)Kumar, Sarawagi, and Jain]{kumar2018trainable}
+A.~Kumar, S.~Sarawagi, and U.~Jain.
+\newblock Trainable calibration measures for neural networks from kernel mean embeddings.
+\newblock In \emph{International Conference on Machine Learning}, pages 2805--2814. PMLR, 2018.
+
+\bibitem[Kumar et~al.(2019)Kumar, Liang, and Ma]{kumar2019verified}
+A.~Kumar, P.~S. Liang, and T.~Ma.
+\newblock Verified uncertainty calibration.
+\newblock \emph{Advances in neural information processing systems}, 32, 2019.
+
+\bibitem[Lee et~al.(2023)Lee, Huang, Hassani, and Dobriban]{lee2023t}
+D.~Lee, X.~Huang, H.~Hassani, and E.~Dobriban.
+\newblock T-cal: An optimal test for the calibration of predictive models.
+\newblock \emph{Journal of Machine Learning Research}, 24\penalty0 (335):\penalty0 1--72, 2023.
+
+\bibitem[Liu et~al.(2019)Liu, Ott, Goyal, Du, Joshi, Chen, Levy, Lewis, Zettlemoyer, and Stoyanov]{liu2019roberta}
+Y.~Liu, M.~Ott, N.~Goyal, J.~Du, M.~Joshi, D.~Chen, O.~Levy, M.~Lewis, L.~Zettlemoyer, and V.~Stoyanov.
+\newblock Roberta: A robustly optimized bert pretraining approach.
+\newblock \emph{arXiv preprint arXiv:1907.11692}, 2019.
+
+\bibitem[Loureiro et~al.(2022)Loureiro, Barbieri, Neves, Anke, and Camacho-Collados]{loureiro2022timelms}
+D.~Loureiro, F.~Barbieri, L.~Neves, L.~E. Anke, and J.~Camacho-Collados.
+\newblock Timelms: Diachronic language models from twitter.
+\newblock In \emph{Proceedings of the 60th annual meeting of the association for computational linguistics: System demonstrations}, pages 251--260, 2022.
+
+\bibitem[Mahbobi et~al.(2023)Mahbobi, Kimiagari, and Vasudevan]{mahbobi2023credit}
+M.~Mahbobi, S.~Kimiagari, and M.~Vasudevan.
+\newblock Credit risk classification: an integrated predictive accuracy algorithm using artificial and deep neural networks.
+\newblock \emph{Annals of Operations Research}, 330\penalty0 (1):\penalty0 609--637, 2023.
+
+\bibitem[McShane(1934)]{mcshane1934extension}
+E.~J. McShane.
+\newblock Extension of range of functions.
+\newblock \emph{Bulletin of the American Mathematical Society}, 40\penalty0 (12):\penalty0 837--842, 1934.
+
+\bibitem[Minderer et~al.(2021)Minderer, Djolonga, Romijnders, Hubis, Zhai, Houlsby, Tran, and Lucic]{minderer2021revisiting}
+M.~Minderer, J.~Djolonga, R.~Romijnders, F.~Hubis, X.~Zhai, N.~Houlsby, D.~Tran, and M.~Lucic.
+\newblock Revisiting the calibration of modern neural networks.
+\newblock \emph{Advances in neural information processing systems}, 34:\penalty0 15682--15694, 2021.
+
+\bibitem[Morris et~al.(2020)Morris, Lifland, Yoo, Grigsby, Jin, and Qi]{morris2020textattack}
+J.~Morris, E.~Lifland, J.~Y. Yoo, J.~Grigsby, D.~Jin, and Y.~Qi.
+\newblock Textattack: A framework for adversarial attacks, data augmentation, and adversarial training in nlp.
+\newblock In \emph{Proceedings of the 2020 conference on empirical methods in natural language processing: System demonstrations}, pages 119--126, 2020.
+
+\bibitem[Murphy(1973)]{murphy1973new}
+A.~H. Murphy.
+\newblock A new vector partition of the probability score.
+\newblock \emph{Journal of Applied Meteorology and Climatology}, 12\penalty0 (4):\penalty0 595--600, 1973.
+
+\bibitem[Murphy and Winkler(1977)]{murphy1977reliability}
+A.~H. Murphy and R.~L. Winkler.
+\newblock Reliability of subjective probability forecasts of precipitation and temperature.
+\newblock \emph{Journal of the Royal Statistical Society Series C: Applied Statistics}, 26\penalty0 (1):\penalty0 41--47, 1977.
+
+\bibitem[Murphy and Winkler(1984)]{murphy1984probability}
+A.~H. Murphy and R.~L. Winkler.
+\newblock Probability forecasting in meteorology.
+\newblock \emph{Journal of the American Statistical Association}, 79\penalty0 (387):\penalty0 489--500, 1984.
+
+\bibitem[Naeini et~al.(2015)Naeini, Cooper, and Hauskrecht]{naeini2015obtaining}
+M.~P. Naeini, G.~Cooper, and M.~Hauskrecht.
+\newblock Obtaining well calibrated probabilities using bayesian binning.
+\newblock In \emph{Proceedings of the AAAI conference on artificial intelligence}, volume~29, 2015.
+
+\bibitem[Nguyen and O’Connor(2015)]{nguyen2015posterior}
+K.~Nguyen and B.~O’Connor.
+\newblock Posterior calibration and exploratory analysis for natural language processing models.
+\newblock In \emph{Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing}, pages 1587--1598, 2015.
+
+\bibitem[Nixon et~al.(2019)Nixon, Dusenberry, Zhang, Jerfel, and Tran]{nixon2019measuring}
+J.~Nixon, M.~W. Dusenberry, L.~Zhang, G.~Jerfel, and D.~Tran.
+\newblock Measuring calibration in deep learning.
+\newblock In \emph{CVPR workshops}, volume~2, 2019.
+
+\bibitem[Okoroafor et~al.(2025)Okoroafor, Kleinberg, and Kim]{okoroafor2025nearoptimal}
+P.~Okoroafor, R.~Kleinberg, and M.~P. Kim.
+\newblock Near-optimal algorithms for omniprediction.
+\newblock In \emph{2025 IEEE 66th Annual Symposium on Foundations of Computer Science (FOCS)}, pages 1595--1609, 2025.
+\newblock \doi{10.1109/FOCS63196.2025.00084}.
+
+\bibitem[Ovadia et~al.(2019)Ovadia, Fertig, Ren, Nado, Sculley, Nowozin, Dillon, Lakshminarayanan, and Snoek]{ovadia2019}
+Y.~Ovadia, E.~Fertig, J.~Ren, Z.~Nado, D.~Sculley, S.~Nowozin, J.~Dillon, B.~Lakshminarayanan, and J.~Snoek.
+\newblock Can you trust your model\textquotesingle s uncertainty? evaluating predictive uncertainty under dataset shift.
+\newblock In H.~Wallach, H.~Larochelle, A.~Beygelzimer, F.~d\textquotesingle Alch\'{e}-Buc, E.~Fox, and R.~Garnett, editors, \emph{Advances in Neural Information Processing Systems}, volume~32. Curran Associates, Inc., 2019.
+\newblock URL \url{https://proceedings.neurips.cc/paper_files/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf}.
+
+\bibitem[Pires et~al.(2019)Pires, Schlinger, and Garrette]{pires2019multilingual}
+T.~Pires, E.~Schlinger, and D.~Garrette.
+\newblock How multilingual is multilingual bert?
+\newblock In \emph{Proceedings of the 57th annual meeting of the association for computational linguistics}, pages 4996--5001, 2019.
+
+\bibitem[Roelofs et~al.(2022)Roelofs, Cain, Shlens, and Mozer]{roelofs2022mitigating}
+R.~Roelofs, N.~Cain, J.~Shlens, and M.~C. Mozer.
+\newblock Mitigating bias in calibration error estimation.
+\newblock In \emph{International Conference on Artificial Intelligence and Statistics}, pages 4036--4054. PMLR, 2022.
+
+\bibitem[Rossellini et~al.(2025)Rossellini, Soloff, Barber, Ren, and Willett]{rossellini2025can}
+R.~Rossellini, J.~A. Soloff, R.~F. Barber, Z.~Ren, and R.~Willett.
+\newblock Can a calibration metric be both testable and actionable?
+\newblock In \emph{The Thirty Eighth Annual Conference on Learning Theory}, pages 4937--4972. PMLR, 2025.
+
+\bibitem[R{\"u}schendorf(2009)]{ruschendorf2009distributional}
+L.~R{\"u}schendorf.
+\newblock On the distributional transform, sklar's theorem, and the empirical copula process.
+\newblock \emph{Journal of statistical planning and inference}, 139\penalty0 (11):\penalty0 3921--3927, 2009.
+
+\bibitem[Sanh et~al.(2019)Sanh, Debut, Chaumond, and Wolf]{sanh2019distilbert}
+V.~Sanh, L.~Debut, J.~Chaumond, and T.~Wolf.
+\newblock Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter.
+\newblock \emph{arXiv preprint arXiv:1910.01108}, 2019.
+
+\bibitem[Schervish(1989)]{schervish1989general}
+M.~J. Schervish.
+\newblock A general method for comparing probability assessors.
+\newblock \emph{The annals of statistics}, 17\penalty0 (4):\penalty0 1856--1879, 1989.
+
+\bibitem[Shen et~al.(2025)Shen, Vitercik, and Wikum]{shen2025algorithms}
+J.~H. Shen, E.~Vitercik, and A.~Wikum.
+\newblock Algorithms with calibrated machine learning predictions.
+\newblock In \emph{Forty-second International Conference on Machine Learning}, 2025.
+\newblock URL \url{https://openreview.net/forum?id=Obet2x6GNl}.
+
+\bibitem[Socher et~al.(2013)Socher, Perelygin, Wu, Chuang, Manning, Ng, and Potts]{socher2013recursive}
+R.~Socher, A.~Perelygin, J.~Wu, J.~Chuang, C.~D. Manning, A.~Y. Ng, and C.~Potts.
+\newblock Recursive deep models for semantic compositionality over a sentiment treebank.
+\newblock In \emph{Proceedings of the 2013 conference on empirical methods in natural language processing}, pages 1631--1642, 2013.
+
+\bibitem[Sun et~al.(2020)Sun, Kretzschmar, Dotiwalla, Chouard, Patnaik, Tsui, Guo, Zhou, Chai, Caine, et~al.]{sun2020scalability}
+P.~Sun, H.~Kretzschmar, X.~Dotiwalla, A.~Chouard, V.~Patnaik, P.~Tsui, J.~Guo, Y.~Zhou, Y.~Chai, B.~Caine, et~al.
+\newblock Scalability in perception for autonomous driving: Waymo open dataset.
+\newblock In \emph{Proceedings of the IEEE/CVF conference on computer vision and pattern recognition}, pages 2446--2454, 2020.
+
+\bibitem[Sun et~al.(2024)Sun, Chaudhari, Barnett, and Dobriban]{sun2024confidence}
+Y.~Sun, P.~Chaudhari, I.~J. Barnett, and E.~Dobriban.
+\newblock A confidence interval for the {$\ell_2$} expected calibration error.
+\newblock \emph{arXiv preprint arXiv:2408.08998}, 2024.
+
+\bibitem[Tao et~al.(2024)Tao, Zhu, Guo, Dong, and Xu]{tao2024benchmark}
+L.~Tao, Y.~Zhu, H.~Guo, M.~Dong, and C.~Xu.
+\newblock A benchmark study on calibration.
+\newblock In \emph{International Conference on Learning Representations}, volume 2024, pages 25084--25096, 2024.
+
+\bibitem[Turay and Vladimirova(2022)]{turay2022toward}
+T.~Turay and T.~Vladimirova.
+\newblock Toward performing image classification and object detection with convolutional neural networks in autonomous driving systems: A survey.
+\newblock \emph{IEEE access}, 10:\penalty0 14076--14119, 2022.
+
+\bibitem[van Calster et~al.(2019)van Calster, McLernon, van Smeden, Wynants, Steyerberg, Steyerber, Bossuyt, Collins, Macaskill, McLernon, Moons, Steyerberg, van Calster, van Smeden, and Vickers]{vanCalster2019CalibrationTA}
+B.~van Calster, D.~J. McLernon, M.~van Smeden, L.~Wynants, E.~W. Steyerberg, P.~G. S. P. D. J. K. G. M. E. W. B. M. B. C. M. M.~M. Steyerber, P.~M.~M. Bossuyt, G.~S. Collins, P.~Macaskill, D.~J. McLernon, K.~G.~M. Moons, E.~W. Steyerberg, B.~van Calster, M.~van Smeden, and A.~J. Vickers.
+\newblock Calibration: the achilles heel of predictive analytics.
+\newblock \emph{BMC Medicine}, 17, 2019.
+\newblock URL \url{https://api.semanticscholar.org/CorpusID:209371709}.
+
+\bibitem[Widmann et~al.(2019)Widmann, Lindsten, and Zachariah]{widmann2019calibration}
+D.~Widmann, F.~Lindsten, and D.~Zachariah.
+\newblock Calibration tests in multi-class classification: A unifying framework.
+\newblock \emph{Advances in neural information processing systems}, 32, 2019.
+
+\bibitem[Widmann et~al.(2021)Widmann, Lindsten, and Zachariah]{widmann2021calibration}
+D.~Widmann, F.~Lindsten, and D.~Zachariah.
+\newblock Calibration tests beyond classification.
+\newblock In \emph{International Conference on Learning Representations}, 2021.
+\newblock URL \url{https://openreview.net/forum?id=-bxf89v3Nx}.
+
+\bibitem[Zadrozny and Elkan(2001)]{zadrozny2001obtaining}
+B.~Zadrozny and C.~Elkan.
+\newblock Obtaining calibrated probability estimates from decision trees and naive bayesian classifiers.
+\newblock In \emph{Proceedings of the Eighteenth International Conference on Machine Learning}, pages 609--616, 2001.
+
+\bibitem[Zadrozny and Elkan(2002)]{zadrozny2002transforming}
+B.~Zadrozny and C.~Elkan.
+\newblock Transforming classifier scores into accurate multiclass probability estimates.
+\newblock In \emph{Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining}, pages 694--699, 2002.
+
+\bibitem[Zhang et~al.(2020)Zhang, Kailkhura, and Han]{zhang2020mix}
+J.~Zhang, B.~Kailkhura, and T.~Y.-J. Han.
+\newblock Mix-n-match: Ensemble and compositional methods for uncertainty calibration in deep learning.
+\newblock In \emph{International conference on machine learning}, pages 11117--11128. PMLR, 2020.
+
+\bibitem[Zhu et~al.(2015)Zhu, Kiros, Zemel, Salakhutdinov, Urtasun, Torralba, and Fidler]{zhu2015aligning}
+Y.~Zhu, R.~Kiros, R.~Zemel, R.~Salakhutdinov, R.~Urtasun, A.~Torralba, and S.~Fidler.
+\newblock Aligning books and movies: Towards story-like visual explanations by watching movies and reading books.
+\newblock In \emph{Proceedings of the IEEE international conference on computer vision}, pages 19--27, 2015.
+
+\end{thebibliography}

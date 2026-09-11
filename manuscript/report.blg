@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99e (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+The style file: abbrvnat.bst
+Database file #1: ref.bib
+Warning--can't use both volume and number fields in gut2006probability
+Warning--can't use both volume and number fields in naeini2015obtaining
+Warning--can't use both volume and number fields in nixon2019measuring
+You've used 79 entries,
+            2773 wiz_defined-function locations,
+            1051 strings with 21719 characters,
+and the built_in function-call counts, 46437 in all, are:
+= -- 4099
+> -- 3107
+< -- 57
++ -- 1043
+- -- 963
+* -- 3884
+:= -- 6920
+add.period$ -- 258
+call.type$ -- 79
+change.case$ -- 550
+chr.to.int$ -- 78
+cite$ -- 161
+duplicate$ -- 2011
+empty$ -- 3510
+format.name$ -- 1075
+if$ -- 9875
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 82
+newline$ -- 412
+num.names$ -- 318
+pop$ -- 1161
+preamble$ -- 1
+purify$ -- 474
+quote$ -- 0
+skip$ -- 1678
+stack$ -- 0
+substring$ -- 1927
+swap$ -- 399
+text.length$ -- 31
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 854
+warning$ -- 3
+while$ -- 374
+width$ -- 0
+write$ -- 1050
+(There were 3 warnings)

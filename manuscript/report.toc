@@ -1,0 +1,66 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background and Related Works}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Binned approximations to ECE}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Alternatives to ECE}{3}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Our Contributions}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}A Rank Measure for Calibration}{4}{section.2}%
+\contentsline {section}{\numberline {3}Properties of $\mathrm {rankECE}$}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}$\mathrm {rankECE}$ as an approximation to $\ell _2\textnormal {-}\mathrm {ECE}$}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Testing for Perfect Calibration}{7}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Comparing $\mathrm {rankECE}$ and $\ell _2\textnormal {-}\mathrm {binECE}$}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}$\ell _2\textnormal {-}\mathrm {binECE}$: properties and estimation}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}$\mathrm {rankECE}$ as an alternative to $\ell _2\textnormal {-}\mathrm {binECE}$}{10}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Experiments}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}$\mathrm {rankECE}$ and $\ell _2\textnormal {-}\mathrm {binECE}$ as approximations to $\ell _2\textnormal {-}\mathrm {ECE}$}{12}{subsection.5.1}%
+\contentsline {paragraph}{Evaluation Protocol.}{13}{section*.2}%
+\contentsline {subsubsection}{\numberline {5.1.1}Simulations}{13}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Sentiment Prediction}{14}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Testing for Perfect Calibration}{16}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Discussion}{18}{section.6}%
+\contentsline {section}{\numberline {A}Additional Experiments}{26}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Comparing $\mathrm {rankECE}$ and $\ell _2\textnormal {-}\mathrm {binECE}$ as approxmations to $\ell _2\textnormal {-}\mathrm {ECE}$}{26}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Comparing $\mathrm {rankECE}$ and $\ell _2\textnormal {-}\mathrm {binECE}$ in Sentiment Prediction}{27}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Testing for perfect calibration}{28}{subsection.A.3}%
+\contentsline {section}{\numberline {B}Testability and Actionability of $\mathrm {rankECE}$}{30}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}Testability of $\mathrm {rankECE}$}{30}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.2}Actionability of $\mathrm {rankECE}$}{30}{subsection.B.2}%
+\contentsline {subsection}{\numberline {B.3}Proof of Theorem \ref {thm:actionable_rankece}}{31}{subsection.B.3}%
+\contentsline {subsubsection}{\numberline {B.3.1}Proof of Lemma \ref {lemma:partition_omega}}{32}{subsubsection.B.3.1}%
+\contentsline {section}{\numberline {C}An example comparing $\mathrm {rankECE}$ and $\ell _2\textnormal {-}\mathrm {binECE}$}{33}{appendix.C}%
+\contentsline {subsection}{\numberline {C.1}Empirical Comparison of $\ell _2\textnormal {-}\mathrm {binECE}$ and $\mathrm {rankECE}$ in Example \ref {example:compare}}{34}{subsection.C.1}%
+\contentsline {subsection}{\numberline {C.2}Proof of Lemma \ref {lemma:example_bin_bd}}{35}{subsection.C.2}%
+\contentsline {subsection}{\numberline {C.3}Proof of Lemma \ref {lemma:example_rank_bd}}{35}{subsection.C.3}%
+\contentsline {paragraph}{\textbf {Proof for the lower bound.}}{36}{section*.16}%
+\contentsline {paragraph}{\textbf {Proof of the upper bound.}}{36}{section*.17}%
+\contentsline {section}{\numberline {D}Proof of Proposition \ref {prop:test_rank_finite} and results from Section \ref {sec:rank_prop}}{37}{appendix.D}%
+\contentsline {subsection}{\numberline {D.1}Proof of Proposition \ref {prop:test_rank_finite}}{37}{subsection.D.1}%
+\contentsline {subsection}{\numberline {D.2}Proof of Proposition \ref {prop:lower_bound}}{38}{subsection.D.2}%
+\contentsline {paragraph}{\textbf {Proof of upper bound.}}{38}{section*.18}%
+\contentsline {paragraph}{\textbf {Proof of lower bound.}}{38}{section*.19}%
+\contentsline {subsection}{\numberline {D.3}Proof of Proposition \ref {prop:consistency}}{39}{subsection.D.3}%
+\contentsline {subsection}{\numberline {D.4}Proof of Proposition \ref {prop:rank_l2_finite_bd}}{41}{subsection.D.4}%
+\contentsline {subsection}{\numberline {D.5}Proof of Theorem \ref {thm:null_calibration}}{41}{subsection.D.5}%
+\contentsline {subsubsection}{\numberline {D.5.1}Proof of Lemma \ref {lemma:rank_uniform_0}}{42}{subsubsection.D.5.1}%
+\contentsline {subsection}{\numberline {D.6}Proof of Proposition \ref {prop:finite_test}}{43}{subsection.D.6}%
+\contentsline {subsection}{\numberline {D.7}Proof of Theorem \ref {thm:null_asymptotic}}{44}{subsection.D.7}%
+\contentsline {subsection}{\numberline {D.8}Proof of Corollary \ref {cor:rank_test_calib}}{46}{subsection.D.8}%
+\contentsline {subsection}{\numberline {D.9}Proof of Remark~\ref {rmk:hardness_result}}{46}{subsection.D.9}%
+\contentsline {section}{\numberline {E}Proof of results from Section \ref {sec:compare}}{48}{appendix.E}%
+\contentsline {subsection}{\numberline {E.1}Proof of Proposition \ref {prop:conc_binhat}}{48}{subsection.E.1}%
+\contentsline {paragraph}{Case 1: $\alpha = \beta $.}{48}{section*.20}%
+\contentsline {paragraph}{Case 2: $\alpha \neq \beta $.}{49}{section*.21}%
+\contentsline {subsection}{\numberline {E.2}Proof of Lemma \ref {lemma:stat_bias_bound}}{49}{subsection.E.2}%
+\contentsline {subsection}{\numberline {E.3}Proof of Theorem \ref {thm:rank_bin_comparison}}{50}{subsection.E.3}%
+\contentsline {subsection}{\numberline {E.4}Justification of Remark \ref {rmk:stat_bias_bound}}{52}{subsection.E.4}%
+\contentsline {subsection}{\numberline {E.5}Justification of Remark \ref {remark:rate_of_convg_compare}}{52}{subsection.E.5}%
+\contentsline {section}{\numberline {F}On non-atomicity of $f(X)$}{53}{appendix.F}%
+\contentsline {subsection}{\numberline {F.1}Proof of Theorem \ref {thm:rank_sigma_proper}}{54}{subsection.F.1}%
+\contentsline {subsubsection}{\numberline {F.1.1}Proof of Part (a) and Part (b).}{54}{subsubsection.F.1.1}%
+\contentsline {subsubsection}{\numberline {F.1.2}Proof of Part (c).}{55}{subsubsection.F.1.2}%
+\contentsline {subsubsection}{\numberline {F.1.3}Proof of Lemma \ref {lemma:V_sigma_rank}}{56}{subsubsection.F.1.3}%
+\contentsline {subsection}{\numberline {F.2}Justification of Remark \ref {remark:rankece_derandom}}{56}{subsection.F.2}%
+\contentsline {section}{\numberline {G}Additional Details on Sentiment Models}{57}{appendix.G}%
+\contentsline {paragraph}{\texttt {DistilBERT\_SST2} :}{58}{section*.22}%
+\contentsline {paragraph}{\texttt {BERT\_SST2} :}{58}{section*.23}%
+\contentsline {paragraph}{\texttt {RoBERTa\_Twitter\_Sentiment} :}{58}{section*.24}%
+\contentsline {paragraph}{\texttt {{BERT\_Multilingual\_Stars}} :}{58}{section*.25}%
